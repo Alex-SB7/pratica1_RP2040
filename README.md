@@ -27,5 +27,4 @@ Este projeto demonstra a implementação de duas animações distintas em uma ma
 ## 🎥 Demonstração
 
 Confira o vídeo demonstrativo do funcionamento do projeto:
-
-[![Demonstração do Projeto](https://youtube.com/shorts/98CmDunN1Ag?si=BhSqyGx-zQA60b7j)
+https://youtube.com/shorts/98CmDunN1Ag?si=BhSqyGx-zQA60b7j
